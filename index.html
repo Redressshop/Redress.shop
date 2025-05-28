@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Redress</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1 class="logo-text">Redress</h1>
+      <img src="logo redress.png" alt="Logo Redress" class="logo-img" />
+    </div>
+    <p class="slogan">È lo shop che aspettavi — il migliore per stile, eleganza e personalità.</p>
+
+  </header>
+<header>
+
+
+    <!-- Bottone Contatti -->
+    <button id="toggle-contact">Contatti</button>
+  </div>
+
+<!-- Menu a tendina che compare al clic -->
+<div id="contact-menu" class="contact-dropdown hidden">
+  <button onclick="window.open('https://discord.gg/DtXEKnXMqr', '_blank')">💬 Discord</button>
+  <button onclick="window.open('mailto:redress.shop.official@gmail.com')">✉️ Gmail</button>
+  <button onclick="window.open('https://www.instagram.com/_redress_shopp?igsh=Zzh0aGp6NTJzdDB0', '_blank')">📸 Instagram</button>
+</div>
+
+
+
+</header>
+
+  <section id="catalogo">
+    <input type="text" id="searchBar" placeholder="Cerca un prodotto..." />
+    <div id="prodotti" class="product-grid"></div>
+  </section>
+
+  <!-- Finestra popup per dettagli -->
+  <div id="popup" class="popup hidden">
+    <div class="popup-content">
+      <span id="popup-close">&times;</span>
+      <img id="popup-img" src="" alt="" />
+      <h2 id="popup-nome"></h2>
+      <p id="popup-prezzo"></p>
+      <p id="popup-desc"></p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Redress. Tutti i diritti riservati.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
