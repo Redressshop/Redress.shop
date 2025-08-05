@@ -14,7 +14,7 @@ const products = [
     category: "borse",
     image: "Borsa-Gucci.png",
     price: "110€",
-    discountedPrice: "35€",
+    discountedPrice: "30€",
     discount: true,
     description: "Borsa Gucci, grigia"
   },
@@ -24,7 +24,7 @@ const products = [
     category: "copricapo",
     image: "Cappellino-Louis-Vuitton.png",
     price: "90€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: "Cappellino Louis Vuitton a quadri"
   },
@@ -34,7 +34,7 @@ const products = [
     category: "copricapo",
     image: "berretto gucci.png",
     price: "80€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: "Berretto Gucci in Tela, nero,rosso,grigio"
   },
@@ -44,7 +44,7 @@ const products = [
     category: "parte inferiore",
     image: "Philip Plein Shorts.png",
     price: "90€",
-    discountedPrice: "40€",
+    discountedPrice: "24,99€",
     discount: true,
     description: ""
   },
@@ -54,7 +54,7 @@ const products = [
     category: "parte superiore",
     image: "Philip Plein t-shirt.png",
     price: "90€",
-    discountedPrice: "40€",
+    discountedPrice: "24,99€",
     discount: true,
     description: ""
   },
@@ -65,7 +65,7 @@ const products = [
     category: "parte superiore",
     image: "Dsquared Icon t-shirt.png",
     price: "70€",
-    discountedPrice: "35€",
+    discountedPrice: "24,99€",
     discount: true,
     description: ""
   },
@@ -75,7 +75,7 @@ const products = [
     category: "scarpe",
     image: "Louis Vuitton Trainer.png",
     price: "150€",
-    discountedPrice: "90€",
+    discountedPrice: "60€",
     discount: true,
     description: ""
   },
@@ -85,7 +85,7 @@ const products = [
     category: "accessori",
     image: "Burberry Belt.png",
     price: "50€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -95,7 +95,7 @@ const products = [
     category: "accessori",
     image: "Gucci Belt.png",
     price: "55€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -105,7 +105,7 @@ const products = [
     category: "accessori",
     image: "Gucci Wallet.png",
     price: "60€",
-    discountedPrice: "20€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -115,7 +115,7 @@ const products = [
     category: "accessori",
     image: "Louis Vuitton Belt.png",
     price: "68€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -125,7 +125,7 @@ const products = [
     category: "copricapo",
     image: "Gucci Hat.png",
     price: "70€",
-    discountedPrice: "27€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -135,7 +135,7 @@ const products = [
     category: "parte superiore",
     image: "Stone Island t-shirt.png",
     price: "70€",
-    discountedPrice: "25€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -145,7 +145,7 @@ const products = [
     category: "scarpe",
     image: "Louis Vuitton Skate.png",
     price: "200€",
-    discountedPrice: "80€",
+    discountedPrice: "60€",
     discount: true,
     description: ""
   },
@@ -155,7 +155,7 @@ const products = [
     category: "scarpe",
     image: "Dior b30.png",
     price: "250€",
-    discountedPrice: "70€",
+    discountedPrice: "60€",
     discount: true,
     description: ""
   },
@@ -165,7 +165,7 @@ const products = [
     category: "parte inferiore",
     image: "Burberry Shorts.png",
     price: "80€",
-    discountedPrice: "30€",
+    discountedPrice: "324,99€",
     discount: true,
     description: ""
   },
@@ -175,7 +175,7 @@ const products = [
     category: "parte inferiore",
     image: "Balenciaga Shorts.png",
     price: "80€",
-    discountedPrice: "30€",
+    discountedPrice: "24,99€",
     discount: true,
     description: ""
   },
@@ -185,7 +185,7 @@ const products = [
     category: "parte superiore",
     image: "Kenzo t-short.png",
     price: "70€",
-    discountedPrice: "30€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
@@ -195,7 +195,7 @@ const products = [
     category: "parte superiore",
     image: "Balenciaga t-short.png",
     price: "70€",
-    discountedPrice: "30€",
+    discountedPrice: "19,99€",
     discount: true,
     description: ""
   },
