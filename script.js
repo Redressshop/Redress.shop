@@ -38,7 +38,7 @@ const products = [
     discount: true,
     description: "Berretto Gucci in Tela, nero,rosso,grigio"
   },
-         {
+ {
     name: "Burberry Shorts",
     category: "parte inferiore",
     image: "Burberry Shorts.png",
