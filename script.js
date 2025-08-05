@@ -75,7 +75,7 @@ const products = [
     category: "scarpe",
     image: "Louis Vuitton Trainer.png",
     price: "150€",
-    discountedPrice: "60€",
+    discountedPrice: "69,99€",
     discount: true,
     description: ""
   },
@@ -145,7 +145,7 @@ const products = [
     category: "scarpe",
     image: "Louis Vuitton Skate.png",
     price: "200€",
-    discountedPrice: "60€",
+    discountedPrice: "69,99€",
     discount: true,
     description: ""
   },
@@ -155,7 +155,7 @@ const products = [
     category: "scarpe",
     image: "Dior b30.png",
     price: "250€",
-    discountedPrice: "60€",
+    discountedPrice: "69,99€",
     discount: true,
     description: ""
   },
