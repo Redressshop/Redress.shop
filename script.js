@@ -38,15 +38,7 @@ const products = [
     discount: true,
     description: "Berretto Gucci in Tela, nero,rosso,grigio"
   },
- {
-    name: "Burberry Shorts",
-    category: "parte inferiore",
-    image: "Burberry Shorts.png",
-    price: "80€",
-    discountedPrice: "24,99€",
-    discount: true,
-    description: ""
-  },
+
      {
     name: "Philip Plein Shorts",
     category: "parte inferiore",
@@ -168,7 +160,15 @@ const products = [
     description: ""
   },
 
-
+ {
+    name: "Burberry Shorts",
+    category: "parte inferiore",
+    image: "Burberry Shorts.png",
+    price: "80€",
+    discountedPrice: "24,99€",
+    discount: true,
+    description: ""
+  },
 
          {
     name: "Balenciaga Shorts ",
