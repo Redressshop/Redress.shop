@@ -165,7 +165,7 @@ const products = [
     category: "parte inferiore",
     image: "Burberry Shorts.png",
     price: "80€",
-    discountedPrice: "324,99€",
+    discountedPrice: "24,99€",
     discount: true,
     description: ""
   },
